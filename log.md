@@ -1,10 +1,94 @@
 # 100 Days Of Code - Log
 
+### Day 6: March 26, 2020
+
+**Today's Progress:** Sets. For Loops. Finished Hangman Part 5. 
+
+**Thoughts:** Similar to dicts?
+
+* Set:
+  * unordered, hashable objects
+  * {} or set()
+  * len()
+  * in, not in
+  * use for loop to iterate through it
+  * add(), update()
+  * discard(), remove()
+    * remove generates KeyError if it's not there
+  * pop()
+    * remove random element
+  * clear() - delete everything
+  * Advantages: allow you to run membership tests much faster than lists
+
+**Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
+
+### Day 5: March 25, 2020
+
+**Today's Progress:** Arguments. Operations with list. How to load modules and load specific functions from modules. Using Random module. String formatting. Basic string methods. Finished Hangman Part 4. 
+
+* List operations:  
+* list.append(element)
+* list.extend(another_list)
+  * list.append(element) instead of list.extend(another_list), it adds the entire list as an element.
+* list.remove(element)
+* list.insert(position, element)
+  * The first argument is the index of the element before which to insert
+  * list.reverse()
+    * it performs the operation in place, i.e. it returns nothing, so you can't assign the result of this function to another variable, although the initial list will still be changed
+* list.sort()
+  * performs an inplace sorting, meaning that it changes the original list and doesn't return anything
+  * To sort a list in the descending order, you need to specify reverse argument as True: numbers.sort(reverse=True)
+* Membership testing in a list: checking if an item is present in the list.
+  * in
+  * not in 
+* Random Module:
+  * random.seed([x])
+  * random.uniform(a, b)
+  * random.randint(a, b)
+  * random.choice(seq)
+  * random.randrange(a, b, c)
+  * random.shuffle(seq, [random])
+  * random.sample(population, k)
+* String formatting
+  * string % value
+    * print('%.3f' % (10/3))
+  * print('Mix {}, {} and a {} to make an ideal omelet.'.format('2 eggs', '30 g of milk', 'pinch of salt'))
+  * print('{0} in the {1} by Frank Sinatra'.format('Strangers', 'Night'))
+  * print('The {film} at {theatre} was {adjective}!'.format(film='Lord of the Rings', adjective='incredible', theatre='BFI IMAX'))
+  * name = 'Elizabeth II'
+  * title = 'Queen of the United Kingdom and the other Commonwealth realms'
+  * reign = 'the longest-lived and longest-reigning British monarch'
+  * f'{name}, the {title}, is {reign}.'
+  * hundred_percent_number = 1823
+  * needed_percent = 16
+  * needed_percent_number = hundred_percent_number * needed_percent / 100
+   * print(f'{needed_percent}% from {hundred_percent_number} is {needed_percent_number}') # 16% from 1823 is 291.68
+   * print(f'Rounding {needed_percent_number} to 1 decimal place is {needed_percent_number:.1f}') # Rounding 291.68 to 1 decimal place is 291.7
+* String methods
+  * str.replace(old, new[, count])
+  * str.upper()
+  * str.lower()
+  * str.title()
+  * str.swapcase()
+  * str.capitalize()
+  * str.lstrip([chars])
+  * str.rstrip([chars])
+  * str.strip([chars])
+  * startswith()
+    * str.startswith(pattern, start, end)
+  * endswith()
+    * str.endswith(pattern, start, end)
+
+**Thoughts:** Even more griding.
+
+**Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
+
+
 ### Day 4: March 24, 2020
 
 **Today's Progress:** Control flow statements → Elif statement. Tuples.
 
-**Thoughts:** 
+**Thoughts:** More griding.
 
 **Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
 
