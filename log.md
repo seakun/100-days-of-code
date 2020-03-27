@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 7: March 27, 2020
+
+**Today's Progress:** Loop control statements. Finish Hangman Part 6.
+  * break - exits from the loop immediately. 
+  * continue - stop the iteration if your condition is true and return to the beginning of the loop. 
+  * else - used to specify a block of code to be executed after the loop.
+    * runs if and only if the loop is exited normally (without hitting break).
+    * runs when the loop is never executed
+      * the condition of the while loop is false right from the start
+
+**Thoughts:** Very confusing.
+
+**Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
+
 ### Day 6: March 26, 2020
 
 **Today's Progress:** Sets. For Loops. Finished Hangman Part 5. 
