@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: March 28, 2020
+
+**Today's Progress:** Program execution. Errors.
+
+**Thoughts:** Python is an interpreted language. There's a Python Virtual Machine. 
+
+**Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
+
+
 ### Day 7: March 27, 2020
 
 **Today's Progress:** Loop control statements. Finish Hangman Part 6.
