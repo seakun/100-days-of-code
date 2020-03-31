@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 10: March 31, 2020
+
+**Today's Progress:** List comprehensions. Nested lists.
+    * # list comprehension syntax
+    * new_list = [x for x in some_iterable]
+    * # list comprehension with condition
+    * new_list = [x for x in some_iterable if condition]
+    * # original list
+    * school = [["Mary", "Jack", "Tiffany"], 
+    *           ["Brad", "Claire"],
+    *           ["Molly", "Andy", "Carla"]]
+    * student_list = []
+    * for class_group in school:
+    *     for student in class_group:
+    *       student_list.append(student)
+    * student_list = [student for class_group in school for student in class_group]
+
+**Thoughts:** 
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
+
 ### Day 9: March 30, 2020
 
 **Today's Progress:** Finish Hangman project. Start Tic-Tac-Toe project.
