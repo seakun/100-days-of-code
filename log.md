@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 30, 2020
+
+**Today's Progress:** Finish Hangman project. Start Tic-Tac-Toe project.
+
+**Thoughts:** Very thorough project on Python basics.  
+
+**Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/) [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
+
 ### Day 8: March 28, 2020
 
 **Today's Progress:** Program execution. Errors.
@@ -7,7 +15,6 @@
 **Thoughts:** Python is an interpreted language. There's a Python Virtual Machine. 
 
 **Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
-
 
 ### Day 7: March 27, 2020
 
@@ -106,7 +113,6 @@
 
 **Link to work:** [Hangman](https://github.com/seakun/Python-Projects/blob/master/Hangman/)
 
-
 ### Day 4: March 24, 2020
 
 **Today's Progress:** Control flow statements → Elif statement. Tuples.
@@ -124,7 +130,6 @@
 
 **Link to work:** [fullstackpython.com pull request](https://github.com/mattmakai/fullstackpython.com/pull/232)
 
-
 ### Day 2: March 22, 2020
 
 **Today's Progress:** Collections -> Lists and Indexes. Finishing Zookeeper project.
@@ -132,7 +137,6 @@
 **Thoughts:** Lists. 
 
 **Link to work:** [Zookeeper](https://github.com/seakun/Python-Projects/blob/master/Zookeeper/zookeeper.py)
-
 
 ### Day 1: March 21, 2020
 
