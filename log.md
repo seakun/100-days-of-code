@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 12: April 5, 2020
+
+**Today's Progress:** Type Casting. Escape sequences. Scopes. LEGB rule:
+    * Locals. Variables defined within the function body and not declared global.
+    * Enclosing. Names of the local scope in all enclosing functions from inner to outer.
+    * Globals. Names defined at the top-level of a module or declared global with a global keyword.
+    * Built-in. Any built-in name in Python.
+    * Global keyword.
+    * nonlocal keyword lets us assign to variables in the outer (but not global) scope
+    * Though global and nonlocal are present in the language, they are not often used in practice. 
+
+**Thoughts:** 
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
+
 ### Day 11: April 2, 2020
 
 **Today's Progress:** Finish Tic-Tac-Toe Part 3.
