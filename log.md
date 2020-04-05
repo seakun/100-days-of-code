@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: April 2, 2020
+
+**Today's Progress:** Finish Tic-Tac-Toe Part 3.
+
+**Thoughts:** Getting the game status is pretty hard.
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
+
 ### Day 10: March 31, 2020
 
 **Today's Progress:** List comprehensions. Nested lists.
@@ -17,7 +25,7 @@
     *       student_list.append(student)
     * student_list = [student for class_group in school for student in class_group]
 
-**Thoughts:** 
+**Thoughts:** Pretty straightfowards. Arrays are List in Python.
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
 
