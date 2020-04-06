@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 13: April 6, 2020
+
+**Today's Progress:** Split and join. Any and all.
+    * split() - split() method divides a string into substrings by a separator.
+    * join() - used to create a string out of a collection of strings
+        * the argument of the method must be an iterable object with strings as its elements
+        * the method must be applied to a separator: a string that will separate the elements in a resulting string object
+        * this method only works if the elements in the iterable object are strings
+    * splitlines() - used specifically to split the string by the line boundaries
+    * any() - it returns True if an element or a group of elements in an iterable object are evaluated True.
+        * the value True corresponds to 1, while False can be represented by 0. all numbers other than 0 will be regarded as True, even the negative ones
+    * all() - checks if all the elements of an iterable object are True and returns True if they are.
+
+**Thoughts:** Finished Tic-Tac-Toe.
+
+**Link to work:** [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
+
 ### Day 12: April 5, 2020
 
 **Today's Progress:** Type Casting. Escape sequences. Scopes. LEGB rule:
@@ -11,7 +28,7 @@
     * nonlocal keyword lets us assign to variables in the outer (but not global) scope
     * Though global and nonlocal are present in the language, they are not often used in practice. 
 
-**Thoughts:** 
+**Thoughts:** More griding.
 
 **Link to work:** [Tic-Tac-Toe](https://github.com/seakun/Python-Projects/blob/master/Tic-Tac-Toe/)
 
