@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 7, 2020
+
+**Today's Progress:** Finished stages 1 through 3. 
+
+**Thoughts:** Start Coffee Machine project.
+
+**Link to work:** [Coffee-Machine](https://github.com/seakun/Python-Projects/blob/master/Coffee-Machine/)
+
 ### Day 13: April 6, 2020
 
 **Today's Progress:** Split and join. Any and all.
