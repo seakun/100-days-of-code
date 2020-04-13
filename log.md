@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 16: April 9, 2020
+
+**Today's Progress:** OOP
+    * Data encapsulation is the mechanism of hiding the internal data of objects from the world.
+    * Data abstraction means that objects should provide the simplified, abstract version of their implementations.
+    * Inheritance is a mechanism for defining parent-child relationships between classes.
+    * Polymorphism literally means one name and many forms, and it concerns the inheritance of the classes.
+
+**Thoughts:** Making progress on Coffee Machine project.
+
+**Link to work:** [Coffee-Machine](https://github.com/seakun/Python-Projects/blob/master/Coffee-Machine/)
+
 ### Day 15: April 8, 2020
 
 **Today's Progress:** Finished stages 4 and 5. 
